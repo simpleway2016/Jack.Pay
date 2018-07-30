@@ -1,0 +1,59 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net46</TargetFrameworks>
+    <Version>2.0.6.1</Version>
+    <Description>支持.net core / .net framework 调用微信、支付宝、马上支付、联拓支付、支付传媒、美团支付等接口进行支付、退款，目前支持微信刷卡支付、微信扫码支付、微信公众号支付、微信H5支付、微信企业付款给个人、支付宝刷卡支付、支付宝扫码支付、支付宝手机网页支付、支付宝PC网页支付</Description>
+    <Company>北京小恒科技发展有限公司</Company>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <AssemblyVersion>2.0.6.1</AssemblyVersion>
+    <FileVersion>2.0.6.1</FileVersion>
+    <Authors>Jack</Authors>
+    <PackageLicenseUrl>http://www.cailutong168.com</PackageLicenseUrl>
+    <PackageProjectUrl>http://www.cailutong168.com</PackageProjectUrl>
+    <PackageId>Jack.Pay.V2</PackageId>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DocumentationFile>bin\Release\netstandard2.0\Jack.Pay.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>bin\Debug\netstandard2.0\Jack.Pay.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|netstandard2.0|AnyCPU'">
+    <DefineConstants>TRACE;DEBUG;TESTING2;NETSTANDARD2_0</DefineConstants>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Impls\AlipayPayPage.html" />
+    <None Remove="Impls\WeiXinPayPage.html" />
+    <None Remove="NuGet.exe" />
+    <None Remove="push.bat" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Impls\AlipayPayPage.html" />
+    <EmbeddedResource Include="Impls\WeiXinPayPage.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Jack.HttpRequestHandlers" Version="1.0.2.7" />
+    <PackageReference Include="Newtonsoft.Json" Version="10.0.3" />
+    <PackageReference Include="System.Text.Encoding.CodePages" Version="4.5.0" />
+    <PackageReference Include="System.Xml.XPath" Version="4.3.0" />
+    <PackageReference Include="System.Xml.XPath.XDocument" Version="4.3.0" />
+    <PackageReference Include="Way.Lib" Version="2.0.2.6" />
+  </ItemGroup>
+  <ItemGroup Condition=" '$(TargetFramework)' == 'net46' ">
+    <Reference Include="System.Web" />
+    <Reference Include="System" />
+    <Reference Include="Microsoft.CSharp" />
+  </ItemGroup>
+  <ItemGroup Condition="'$(TargetFramework)' == 'netstandard2.0'">
+    <PackageReference Include="Microsoft.AspNetCore.Mvc">
+      <Version>2.0.0</Version>
+    </PackageReference>
+  </ItemGroup>
+</Project>

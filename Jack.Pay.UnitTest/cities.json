@@ -1,0 +1,7650 @@
+﻿[
+  {
+    "Name": "丽人",
+    "Id": "2",
+    "ParentId": "0",
+    "IsLeaf": false,
+    "SubCates": [
+      {
+        "Name": "美发",
+        "Id": "38",
+        "ParentId": "2",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "美甲",
+        "Id": "39",
+        "ParentId": "2",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "美容美体",
+        "Id": "42",
+        "ParentId": "2",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "瘦身纤体",
+            "Id": "44",
+            "ParentId": "42",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他美容美体",
+            "Id": "50",
+            "ParentId": "42",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "皮肤管理",
+            "Id": "2330",
+            "ParentId": "42",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "美胸丰胸",
+            "Id": "2329",
+            "ParentId": "42",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "祛痘",
+            "Id": "435",
+            "ParentId": "42",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "综合美容SPA",
+            "Id": "436",
+            "ParentId": "42",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "产后塑形",
+            "Id": "437",
+            "ParentId": "42",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "脱毛",
+            "Id": "1864",
+            "ParentId": "42",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "美睫纹绣",
+        "Id": "47",
+        "ParentId": "2",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "美睫",
+            "Id": "441",
+            "ParentId": "47",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "纹绣",
+            "Id": "442",
+            "ParentId": "47",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "其他丽人",
+        "Id": "386",
+        "ParentId": "2",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "纹身",
+        "Id": "444",
+        "ParentId": "2",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "化妆品",
+        "Id": "683",
+        "ParentId": "2",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "瑜伽",
+        "Id": "702",
+        "ParentId": "2",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "舞蹈",
+        "Id": "701",
+        "ParentId": "2",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "芭蕾舞",
+            "Id": "2256",
+            "ParentId": "701",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他舞蹈",
+            "Id": "2257",
+            "ParentId": "701",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "爵士舞",
+            "Id": "2253",
+            "ParentId": "701",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "街舞",
+            "Id": "2252",
+            "ParentId": "701",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "拉丁舞",
+            "Id": "2255",
+            "ParentId": "701",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "肚皮舞",
+            "Id": "2254",
+            "ParentId": "701",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "医疗整形",
+        "Id": "768",
+        "ParentId": "2",
+        "IsLeaf": true,
+        "SubCates": []
+      }
+    ]
+  },
+  {
+    "Name": "休闲娱乐",
+    "Id": "3",
+    "ParentId": "0",
+    "IsLeaf": false,
+    "SubCates": [
+      {
+        "Name": "汽车影院",
+        "Id": "2177",
+        "ParentId": "3",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "网吧网咖",
+        "Id": "2176",
+        "ParentId": "3",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "舞厅",
+        "Id": "2178",
+        "ParentId": "3",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "足疗按摩",
+        "Id": "48",
+        "ParentId": "3",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "DIY手工坊",
+        "Id": "55",
+        "ParentId": "3",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "游戏厅",
+        "Id": "54",
+        "ParentId": "3",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "桌游",
+        "Id": "53",
+        "ParentId": "3",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "采摘/农家乐",
+        "Id": "57",
+        "ParentId": "3",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "真人CS",
+        "Id": "56",
+        "ParentId": "3",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "VR",
+        "Id": "2262",
+        "ParentId": "3",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "其他休闲娱乐",
+        "Id": "95",
+        "ParentId": "3",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "鬼屋",
+        "Id": "2140",
+        "ParentId": "3",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "棋牌",
+        "Id": "2139",
+        "ParentId": "3",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "轰趴",
+        "Id": "2138",
+        "ParentId": "3",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "互动影院",
+        "Id": "212",
+        "ParentId": "3",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "私人影院",
+        "Id": "211",
+        "ParentId": "3",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "文化艺术",
+        "Id": "2175",
+        "ParentId": "3",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "其他文化艺术",
+            "Id": "2143",
+            "ParentId": "2175",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "图书馆",
+            "Id": "2142",
+            "ParentId": "2175",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "活动",
+            "Id": "2148",
+            "ParentId": "2175",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "特有节日",
+            "Id": "2149",
+            "ParentId": "2175",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "俱乐部",
+            "Id": "2147",
+            "ParentId": "2175",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "展览",
+            "Id": "2144",
+            "ParentId": "2175",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "人妖秀",
+            "Id": "423",
+            "ParentId": "2175",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "老年活动中心",
+            "Id": "2374",
+            "ParentId": "2175",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "博彩",
+        "Id": "2172",
+        "ParentId": "3",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "赌场",
+            "Id": "2135",
+            "ParentId": "2172",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他博彩",
+            "Id": "2137",
+            "ParentId": "2172",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "密室",
+        "Id": "225",
+        "ParentId": "3",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "洗浴桑拿",
+        "Id": "277",
+        "ParentId": "3",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "酒吧",
+        "Id": "263",
+        "ParentId": "3",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "闹吧",
+            "Id": "2314",
+            "ParentId": "263",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "清吧",
+            "Id": "2315",
+            "ParentId": "263",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "夜店",
+            "Id": "2313",
+            "ParentId": "263",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "Live House",
+            "Id": "2316",
+            "ParentId": "263",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他酒吧",
+            "Id": "2317",
+            "ParentId": "263",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "茶馆",
+        "Id": "264",
+        "ParentId": "3",
+        "IsLeaf": true,
+        "SubCates": []
+      }
+    ]
+  },
+  {
+    "Name": "生活服务",
+    "Id": "4",
+    "ParentId": "0",
+    "IsLeaf": false,
+    "SubCates": [
+      {
+        "Name": "家政",
+        "Id": "116",
+        "ParentId": "4",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "保姆陪护",
+            "Id": "2338",
+            "ParentId": "116",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "保洁清洗",
+            "Id": "2339",
+            "ParentId": "116",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他家政",
+            "Id": "2340",
+            "ParentId": "116",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "其他生活服务",
+        "Id": "121",
+        "ParentId": "4",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "彩票",
+        "Id": "2136",
+        "ParentId": "4",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "快照",
+        "Id": "376",
+        "ParentId": "4",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "房屋地产",
+        "Id": "2323",
+        "ParentId": "4",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "公寓",
+            "Id": "2368",
+            "ParentId": "2323",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "学生公寓",
+                "Id": "2372",
+                "ParentId": "2368",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "其他公寓",
+                "Id": "2373",
+                "ParentId": "2368",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "青年公寓",
+                "Id": "2370",
+                "ParentId": "2368",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "国际公寓",
+                "Id": "2371",
+                "ParentId": "2368",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "老年公寓",
+                "Id": "2369",
+                "ParentId": "2368",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "小区",
+            "Id": "752",
+            "ParentId": "2323",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "商务楼",
+            "Id": "753",
+            "ParentId": "2323",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "房产中介",
+            "Id": "782",
+            "ParentId": "2323",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "居家维修",
+        "Id": "2326",
+        "ParentId": "4",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "家装维修",
+            "Id": "2342",
+            "ParentId": "2326",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "钟表维修",
+            "Id": "2343",
+            "ParentId": "2326",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "电动/自行车维修",
+            "Id": "2344",
+            "ParentId": "2326",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "摩托车维修",
+            "Id": "2345",
+            "ParentId": "2326",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他居家维修",
+            "Id": "2346",
+            "ParentId": "2326",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "房屋防水",
+            "Id": "825",
+            "ParentId": "2326",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "管道疏通",
+            "Id": "824",
+            "ParentId": "2326",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "开锁换锁",
+            "Id": "826",
+            "ParentId": "2326",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "家具维修",
+            "Id": "812",
+            "ParentId": "2326",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "生活配送",
+        "Id": "2325",
+        "ParentId": "4",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "送奶站",
+            "Id": "2260",
+            "ParentId": "2325",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "送水站",
+            "Id": "799",
+            "ParentId": "2325",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "公共服务",
+        "Id": "2324",
+        "ParentId": "4",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "书刊订阅",
+            "Id": "111",
+            "ParentId": "2324",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "生活充值缴费",
+            "Id": "113",
+            "ParentId": "2324",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "社区服务",
+            "Id": "2354",
+            "ParentId": "2324",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "邮局",
+            "Id": "821",
+            "ParentId": "2324",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "通信营业厅",
+            "Id": "800",
+            "ParentId": "2324",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "网通营业厅",
+                "Id": "804",
+                "ParentId": "800",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "铁通营业厅",
+                "Id": "805",
+                "ParentId": "800",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "其他通信营业厅",
+                "Id": "806",
+                "ParentId": "800",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "移动营业厅",
+                "Id": "801",
+                "ParentId": "800",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "电信营业厅",
+                "Id": "802",
+                "ParentId": "800",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "联通营业厅",
+                "Id": "803",
+                "ParentId": "800",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "厕所",
+            "Id": "781",
+            "ParentId": "2324",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "商务服务",
+        "Id": "2347",
+        "ParentId": "4",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "设备维修",
+            "Id": "2348",
+            "ParentId": "2347",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "翻译服务",
+            "Id": "2350",
+            "ParentId": "2347",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "咨询服务",
+            "Id": "2351",
+            "ParentId": "2347",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "人才服务",
+            "Id": "2353",
+            "ParentId": "2347",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "财务服务",
+            "Id": "2352",
+            "ParentId": "2347",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "律师服务",
+            "Id": "1857",
+            "ParentId": "2347",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "文化传媒",
+        "Id": "2355",
+        "ParentId": "4",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "报刊杂志社",
+            "Id": "2357",
+            "ParentId": "2355",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "电视广播",
+            "Id": "2356",
+            "ParentId": "2355",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "传媒服务",
+            "Id": "2359",
+            "ParentId": "2355",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "出版社",
+            "Id": "2358",
+            "ParentId": "2355",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "情趣生活",
+        "Id": "2365",
+        "ParentId": "4",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "成人用品无人店",
+            "Id": "2367",
+            "ParentId": "2365",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "成人用品有人店",
+            "Id": "2366",
+            "ParentId": "2365",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "市内交通",
+        "Id": "2400",
+        "ParentId": "4",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "公交车",
+            "Id": "775",
+            "ParentId": "2400",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "地铁/轻轨",
+            "Id": "772",
+            "ParentId": "2400",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "城际交通",
+        "Id": "2401",
+        "ParentId": "4",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "港口/码头",
+            "Id": "774",
+            "ParentId": "2401",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "飞机场",
+            "Id": "773",
+            "ParentId": "2401",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "火车站",
+            "Id": "776",
+            "ParentId": "2401",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "长途汽车站",
+            "Id": "777",
+            "ParentId": "2401",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "机场休息室",
+            "Id": "1834",
+            "ParentId": "2401",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "金融",
+        "Id": "697",
+        "ParentId": "4",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "典当行",
+            "Id": "2158",
+            "ParentId": "697",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "保险公司",
+            "Id": "2157",
+            "ParentId": "697",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "拍卖行",
+            "Id": "2349",
+            "ParentId": "697",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "信用社",
+            "Id": "703",
+            "ParentId": "697",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "证券投资",
+            "Id": "700",
+            "ParentId": "697",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "银行营业厅",
+            "Id": "698",
+            "ParentId": "697",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "银行自助网点",
+            "Id": "699",
+            "ParentId": "697",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "汇款公司",
+            "Id": "705",
+            "ParentId": "697",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "换汇公司",
+            "Id": "704",
+            "ParentId": "697",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他金融",
+            "Id": "706",
+            "ParentId": "697",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "回收",
+        "Id": "823",
+        "ParentId": "4",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "手机电脑数码回收",
+            "Id": "2331",
+            "ParentId": "823",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "金属物资回收",
+            "Id": "2335",
+            "ParentId": "823",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "礼品奢侈品回收",
+            "Id": "2334",
+            "ParentId": "823",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "金银珠宝回收",
+            "Id": "2333",
+            "ParentId": "823",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "家具电器设备回收",
+            "Id": "2332",
+            "ParentId": "823",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "废品回收",
+            "Id": "2336",
+            "ParentId": "823",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他回收",
+            "Id": "2337",
+            "ParentId": "823",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "搬家",
+        "Id": "822",
+        "ParentId": "4",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "洗涤护理",
+        "Id": "817",
+        "ParentId": "4",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "洗衣",
+            "Id": "117",
+            "ParentId": "817",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他洗涤护理",
+            "Id": "820",
+            "ParentId": "817",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "奢侈品护理",
+            "Id": "818",
+            "ParentId": "817",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "裁缝改衣",
+            "Id": "814",
+            "ParentId": "817",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "修鞋擦鞋",
+            "Id": "811",
+            "ParentId": "817",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "物流快递",
+        "Id": "816",
+        "ParentId": "4",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "网站",
+        "Id": "827",
+        "ParentId": "4",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "家电数码维修",
+        "Id": "807",
+        "ParentId": "4",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "数码维修",
+            "Id": "2341",
+            "ParentId": "807",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他家电数码维修",
+            "Id": "813",
+            "ParentId": "807",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "电脑维修",
+            "Id": "808",
+            "ParentId": "807",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "家电维修",
+            "Id": "809",
+            "ParentId": "807",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "手机维修",
+            "Id": "810",
+            "ParentId": "807",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "文印图文",
+        "Id": "815",
+        "ParentId": "4",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "广告印刷",
+            "Id": "2363",
+            "ParentId": "815",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "复印刻章",
+            "Id": "2362",
+            "ParentId": "815",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他文印图文",
+            "Id": "2364",
+            "ParentId": "815",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "交通票务",
+        "Id": "788",
+        "ParentId": "4",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "长途汽车票代售点",
+            "Id": "791",
+            "ParentId": "788",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "飞机票代售点",
+            "Id": "790",
+            "ParentId": "788",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "火车票代售点",
+            "Id": "789",
+            "ParentId": "788",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他交通票务",
+            "Id": "793",
+            "ParentId": "788",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "船票代售点",
+            "Id": "792",
+            "ParentId": "788",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "公司企业",
+        "Id": "785",
+        "ParentId": "4",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "政府机构",
+        "Id": "784",
+        "ParentId": "4",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "其他政府机构",
+            "Id": "2268",
+            "ParentId": "784",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "工商所",
+            "Id": "2266",
+            "ParentId": "784",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "维权站",
+            "Id": "2267",
+            "ParentId": "784",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "福利机构",
+        "Id": "783",
+        "ParentId": "4",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "养老院",
+            "Id": "2376",
+            "ParentId": "783",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他福利机构",
+            "Id": "2377",
+            "ParentId": "783",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "其他交通",
+        "Id": "778",
+        "ParentId": "4",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "丧葬",
+        "Id": "1860",
+        "ParentId": "4",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "丧葬设施",
+            "Id": "2361",
+            "ParentId": "1860",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "白事服务",
+            "Id": "2360",
+            "ParentId": "1860",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "电商购物",
+    "Id": "5",
+    "ParentId": "0",
+    "IsLeaf": false,
+    "SubCates": [
+      {
+        "Name": "家具家装",
+        "Id": "2188",
+        "ParentId": "5",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "商品-美容洗护用品",
+        "Id": "127",
+        "ParentId": "5",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "商品-户外运动用品",
+        "Id": "126",
+        "ParentId": "5",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "商品-鞋",
+        "Id": "125",
+        "ParentId": "5",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "商品-服装配饰",
+        "Id": "124",
+        "ParentId": "5",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "商品-数码家电",
+        "Id": "123",
+        "ParentId": "5",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "商品-图书音像",
+        "Id": "137",
+        "ParentId": "5",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "商品-玩具",
+        "Id": "136",
+        "ParentId": "5",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "商品-箱包",
+        "Id": "128",
+        "ParentId": "5",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "商品-母婴用品",
+        "Id": "131",
+        "ParentId": "5",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "商品-首饰手表",
+        "Id": "130",
+        "ParentId": "5",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "商品-汽车/汽车配件",
+        "Id": "135",
+        "ParentId": "5",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "商品-食品",
+        "Id": "134",
+        "ParentId": "5",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "商品-其他商品",
+        "Id": "157",
+        "ParentId": "5",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "商品-家居日用",
+        "Id": "167",
+        "ParentId": "5",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "商品-家纺",
+        "Id": "218",
+        "ParentId": "5",
+        "IsLeaf": true,
+        "SubCates": []
+      }
+    ]
+  },
+  {
+    "Name": "运动健身",
+    "Id": "206",
+    "ParentId": "0",
+    "IsLeaf": false,
+    "SubCates": [
+      {
+        "Name": "极限运动",
+        "Id": "2183",
+        "ParentId": "206",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "赛车",
+            "Id": "87",
+            "ParentId": "2183",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "攀岩",
+            "Id": "89",
+            "ParentId": "2183",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他极限运动",
+            "Id": "613",
+            "ParentId": "2183",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "搏击运动",
+        "Id": "2182",
+        "ParentId": "206",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "武术",
+            "Id": "196",
+            "ParentId": "2182",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "空手道",
+            "Id": "2151",
+            "ParentId": "2182",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他搏击运动",
+            "Id": "2156",
+            "ParentId": "2182",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "摔跤",
+            "Id": "2154",
+            "ParentId": "2182",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "拳击",
+            "Id": "2155",
+            "ParentId": "2182",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "跆拳道",
+            "Id": "2152",
+            "ParentId": "2182",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "泰拳",
+            "Id": "2153",
+            "ParentId": "2182",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "其他运动健身",
+        "Id": "94",
+        "ParentId": "206",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "马术",
+        "Id": "88",
+        "ParentId": "206",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "游泳",
+        "Id": "91",
+        "ParentId": "206",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "射击射箭",
+        "Id": "281",
+        "ParentId": "206",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "溜冰",
+        "Id": "284",
+        "ParentId": "206",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "体育场馆",
+        "Id": "366",
+        "ParentId": "206",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "健身中心",
+        "Id": "367",
+        "ParentId": "206",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "私教工作室",
+            "Id": "2264",
+            "ParentId": "367",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他健身中心",
+            "Id": "2265",
+            "ParentId": "367",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "健身房",
+            "Id": "2263",
+            "ParentId": "367",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "滑翔伞",
+        "Id": "615",
+        "ParentId": "206",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "综合场馆",
+        "Id": "623",
+        "ParentId": "206",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "球类运动",
+        "Id": "585",
+        "ParentId": "206",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "台球",
+            "Id": "84",
+            "ParentId": "585",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "保龄球",
+            "Id": "83",
+            "ParentId": "585",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "高尔夫球",
+            "Id": "82",
+            "ParentId": "585",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "羽毛球",
+            "Id": "279",
+            "ParentId": "585",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "乒乓球",
+            "Id": "280",
+            "ParentId": "585",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "网球",
+            "Id": "287",
+            "ParentId": "585",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "足球",
+            "Id": "286",
+            "ParentId": "585",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "篮球",
+            "Id": "285",
+            "ParentId": "585",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "壁球",
+            "Id": "288",
+            "ParentId": "585",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他球类运动",
+            "Id": "595",
+            "ParentId": "585",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "旅游",
+    "Id": "217",
+    "ParentId": "0",
+    "IsLeaf": false,
+    "SubCates": [
+      {
+        "Name": "游乐园",
+        "Id": "59",
+        "ParentId": "217",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "水上乐园",
+            "Id": "62",
+            "ParentId": "59",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "主题乐园",
+            "Id": "2133",
+            "ParentId": "59",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "大型游乐场",
+            "Id": "2132",
+            "ParentId": "59",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他游乐园",
+            "Id": "2134",
+            "ParentId": "59",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "城市观光",
+        "Id": "2167",
+        "ParentId": "217",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "高空观景",
+            "Id": "67",
+            "ParentId": "2167",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "游轮",
+            "Id": "2125",
+            "ParentId": "2167",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "热气球",
+            "Id": "2126",
+            "ParentId": "2167",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他城市观光",
+            "Id": "2127",
+            "ParentId": "2167",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "缆车",
+            "Id": "314",
+            "ParentId": "2167",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "其他旅游",
+        "Id": "345",
+        "ParentId": "217",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "景点",
+        "Id": "368",
+        "ParentId": "217",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "展览馆",
+            "Id": "65",
+            "ParentId": "368",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "博物馆",
+                "Id": "64",
+                "ParentId": "65",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "水族馆",
+                "Id": "271",
+                "ParentId": "65",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "其他展览馆",
+                "Id": "336",
+                "ParentId": "65",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "美术馆/艺术馆",
+                "Id": "334",
+                "ParentId": "65",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "纪念馆",
+                "Id": "332",
+                "ParentId": "65",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "科技馆",
+                "Id": "333",
+                "ParentId": "65",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "特色街区",
+            "Id": "2129",
+            "ParentId": "368",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "夜市",
+                "Id": "324",
+                "ParentId": "2129",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "其他特色街区",
+                "Id": "325",
+                "ParentId": "2129",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "影视基地",
+                "Id": "1991",
+                "ParentId": "2129",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "步行街",
+                "Id": "1990",
+                "ParentId": "2129",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "创意园区",
+                "Id": "1989",
+                "ParentId": "2129",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "现代小镇",
+                "Id": "1992",
+                "ParentId": "2129",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "公园",
+            "Id": "2128",
+            "ParentId": "368",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "植物园",
+            "Id": "273",
+            "ParentId": "368",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "动物园",
+            "Id": "272",
+            "ParentId": "368",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他景点",
+            "Id": "343",
+            "ParentId": "368",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "宗教",
+            "Id": "342",
+            "ParentId": "368",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "自然风光",
+            "Id": "338",
+            "ParentId": "368",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "其他自然风光",
+                "Id": "341",
+                "ParentId": "338",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "远足径",
+                "Id": "340",
+                "ParentId": "338",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "海滨沙滩",
+                "Id": "339",
+                "ParentId": "338",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "文物古迹",
+            "Id": "326",
+            "ParentId": "368",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "古镇/古村",
+                "Id": "327",
+                "ParentId": "326",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "其他文物古迹",
+                "Id": "328",
+                "ParentId": "326",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "现代建筑",
+            "Id": "329",
+            "ParentId": "368",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "旅行社",
+        "Id": "371",
+        "ParentId": "217",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "旅游票务",
+        "Id": "794",
+        "ParentId": "217",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "其他旅游票务",
+            "Id": "796",
+            "ParentId": "794",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "景点售票处",
+            "Id": "795",
+            "ParentId": "794",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "水上项目",
+        "Id": "1850",
+        "ParentId": "217",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "游艇",
+            "Id": "2131",
+            "ParentId": "1850",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "出海",
+            "Id": "2130",
+            "ParentId": "1850",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "冲浪",
+            "Id": "597",
+            "ParentId": "1850",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "潜水",
+            "Id": "598",
+            "ParentId": "1850",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他水上项目",
+            "Id": "1851",
+            "ParentId": "1850",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "旅游项目",
+        "Id": "1838",
+        "ParentId": "217",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "其他旅游项目",
+            "Id": "274",
+            "ParentId": "1838",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "漂流",
+            "Id": "278",
+            "ParentId": "1838",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "温泉",
+            "Id": "276",
+            "ParentId": "1838",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "滑雪",
+            "Id": "283",
+            "ParentId": "1838",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "蹦极",
+            "Id": "610",
+            "ParentId": "1838",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "酒店",
+    "Id": "209",
+    "ParentId": "0",
+    "IsLeaf": false,
+    "SubCates": [
+      {
+        "Name": "二星级及以下/经济",
+        "Id": "166",
+        "ParentId": "209",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "四星级/高档",
+        "Id": "164",
+        "ParentId": "209",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "四星级",
+            "Id": "352",
+            "ParentId": "164",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "高档型",
+            "Id": "353",
+            "ParentId": "164",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "五星级/豪华",
+        "Id": "213",
+        "ParentId": "209",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "豪华型",
+            "Id": "356",
+            "ParentId": "213",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "五星级",
+            "Id": "355",
+            "ParentId": "213",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "酒店式公寓",
+        "Id": "2171",
+        "ParentId": "209",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "客栈旅舍",
+        "Id": "2170",
+        "ParentId": "209",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "青年旅舍",
+        "Id": "2169",
+        "ParentId": "209",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "度假村/别墅",
+        "Id": "2168",
+        "ParentId": "209",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "三星级/舒适",
+        "Id": "348",
+        "ParentId": "209",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "三星级",
+            "Id": "215",
+            "ParentId": "348",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "舒适型",
+            "Id": "350",
+            "ParentId": "348",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "特色酒店",
+        "Id": "357",
+        "ParentId": "209",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "家庭旅馆",
+            "Id": "358",
+            "ParentId": "357",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "汽车旅馆",
+            "Id": "359",
+            "ParentId": "357",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "胶囊旅馆",
+            "Id": "360",
+            "ParentId": "357",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "精品酒店",
+            "Id": "361",
+            "ParentId": "357",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "农家院",
+            "Id": "362",
+            "ParentId": "357",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他特色酒店",
+            "Id": "363",
+            "ParentId": "357",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "主题酒店",
+            "Id": "1852",
+            "ParentId": "357",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "其他酒店",
+        "Id": "387",
+        "ParentId": "209",
+        "IsLeaf": true,
+        "SubCates": []
+      }
+    ]
+  },
+  {
+    "Name": "餐饮",
+    "Id": "226",
+    "ParentId": "0",
+    "IsLeaf": false,
+    "SubCates": [
+      {
+        "Name": "小吃快餐",
+        "Id": "10",
+        "ParentId": "226",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "快餐简餐",
+            "Id": "11",
+            "ParentId": "10",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "沙县小吃",
+            "Id": "2099",
+            "ParentId": "10",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "津味小吃",
+            "Id": "2098",
+            "ParentId": "10",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "其他津味小吃",
+                "Id": "2025",
+                "ParentId": "2098",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "煎饼果子",
+                "Id": "2024",
+                "ParentId": "2098",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "锅巴菜",
+                "Id": "1959",
+                "ParentId": "2098",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "长沙小吃",
+            "Id": "2097",
+            "ParentId": "10",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "其他长沙小吃",
+                "Id": "2023",
+                "ParentId": "2097",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "臭豆腐",
+                "Id": "2022",
+                "ParentId": "2097",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "口味虾",
+                "Id": "1957",
+                "ParentId": "2097",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "猪脚",
+                "Id": "1958",
+                "ParentId": "2097",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "川味小吃",
+            "Id": "2096",
+            "ParentId": "10",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "兔头/兔丁",
+                "Id": "2021",
+                "ParentId": "2096",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "蹄花",
+                "Id": "2020",
+                "ParentId": "2096",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "其他川味小吃",
+                "Id": "1956",
+                "ParentId": "2096",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "冒菜",
+                "Id": "1955",
+                "ParentId": "2096",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "钵钵鸡",
+                "Id": "1954",
+                "ParentId": "2096",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "日式小吃",
+            "Id": "2103",
+            "ParentId": "10",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "厦门小吃",
+            "Id": "2102",
+            "ParentId": "10",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "其他厦门小吃",
+                "Id": "1964",
+                "ParentId": "2102",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "沙茶面",
+                "Id": "1963",
+                "ParentId": "2102",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "江浙小吃",
+            "Id": "2101",
+            "ParentId": "10",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "老北京小吃",
+            "Id": "2100",
+            "ParentId": "10",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "炸酱面",
+                "Id": "1961",
+                "ParentId": "2100",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "春饼",
+                "Id": "1960",
+                "ParentId": "2100",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "其他老北京小吃",
+                "Id": "1962",
+                "ParentId": "2100",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "陕西小吃",
+            "Id": "2107",
+            "ParentId": "10",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "肉夹馍",
+                "Id": "2027",
+                "ParentId": "2107",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "泡馍",
+                "Id": "2026",
+                "ParentId": "2107",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "锅盔",
+                "Id": "1968",
+                "ParentId": "2107",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "水盆羊肉",
+                "Id": "1965",
+                "ParentId": "2107",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "葫芦头",
+                "Id": "1967",
+                "ParentId": "2107",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "凉皮/凉粉",
+                "Id": "1966",
+                "ParentId": "2107",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "马来小吃",
+            "Id": "2106",
+            "ParentId": "10",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "印尼小吃",
+            "Id": "2105",
+            "ParentId": "10",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "泰式小吃",
+            "Id": "2104",
+            "ParentId": "10",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他小吃快餐",
+            "Id": "2109",
+            "ParentId": "10",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "地方小吃",
+            "Id": "2108",
+            "ParentId": "10",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "鱼丸",
+                "Id": "2029",
+                "ParentId": "2108",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "饵丝饵块",
+                "Id": "2028",
+                "ParentId": "2108",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "牛杂",
+                "Id": "1972",
+                "ParentId": "2108",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "鸡架",
+                "Id": "1973",
+                "ParentId": "2108",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "烩面",
+                "Id": "1974",
+                "ParentId": "2108",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "炖品",
+                "Id": "1975",
+                "ParentId": "2108",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "排骨米饭",
+                "Id": "1969",
+                "ParentId": "2108",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "豆皮",
+                "Id": "1970",
+                "ParentId": "2108",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "熏酱",
+                "Id": "1971",
+                "ParentId": "2108",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "热干面",
+                "Id": "1976",
+                "ParentId": "2108",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "其他地方小吃",
+                "Id": "1977",
+                "ParentId": "2108",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "饺子",
+            "Id": "2082",
+            "ParentId": "10",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "馄饨|抄手|扁食",
+            "Id": "2083",
+            "ParentId": "10",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "包子",
+            "Id": "2086",
+            "ParentId": "10",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "小笼",
+                "Id": "2017",
+                "ParentId": "2086",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "汤包",
+                "Id": "1942",
+                "ParentId": "2086",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "其他包子",
+                "Id": "1943",
+                "ParentId": "2086",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "麻辣烫",
+            "Id": "2087",
+            "ParentId": "10",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "大排档",
+            "Id": "2084",
+            "ParentId": "10",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "食阁",
+            "Id": "2085",
+            "ParentId": "10",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "熟食",
+            "Id": "2090",
+            "ParentId": "10",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "米粉",
+            "Id": "2091",
+            "ParentId": "10",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "酸辣粉",
+                "Id": "1948",
+                "ParentId": "2091",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "其他米粉",
+                "Id": "1949",
+                "ParentId": "2091",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "螺蛳粉",
+                "Id": "1946",
+                "ParentId": "2091",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "土豆粉",
+                "Id": "1947",
+                "ParentId": "2091",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "牛肉粉",
+                "Id": "1944",
+                "ParentId": "2091",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "肥肠粉",
+                "Id": "1945",
+                "ParentId": "2091",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "小龙虾",
+            "Id": "2088",
+            "ParentId": "10",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "炸串",
+            "Id": "2089",
+            "ParentId": "10",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "豆腐花",
+            "Id": "2094",
+            "ParentId": "10",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "卤味",
+            "Id": "2095",
+            "ParentId": "10",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "面条",
+            "Id": "183",
+            "ParentId": "10",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "米线",
+            "Id": "2092",
+            "ParentId": "10",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "过桥米线",
+                "Id": "1950",
+                "ParentId": "2092",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "其他米线",
+                "Id": "1951",
+                "ParentId": "2092",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "生煎",
+            "Id": "2093",
+            "ParentId": "10",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "锅贴",
+            "Id": "214",
+            "ParentId": "10",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "汤类",
+            "Id": "252",
+            "ParentId": "10",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "胡辣汤",
+                "Id": "2019",
+                "ParentId": "252",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "粉丝汤",
+                "Id": "2018",
+                "ParentId": "252",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "其他汤类",
+                "Id": "1953",
+                "ParentId": "252",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "羊肉汤",
+                "Id": "1952",
+                "ParentId": "252",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "粥",
+            "Id": "251",
+            "ParentId": "10",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "港式小吃",
+            "Id": "2307",
+            "ParentId": "10",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "韩式小吃",
+            "Id": "2304",
+            "ParentId": "10",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "美食城",
+            "Id": "2392",
+            "ParentId": "10",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "日本菜",
+        "Id": "23",
+        "ParentId": "226",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "居酒屋",
+            "Id": "2302",
+            "ParentId": "23",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "日式快餐",
+            "Id": "2303",
+            "ParentId": "23",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "怀石料理",
+            "Id": "2301",
+            "ParentId": "23",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "日式自助",
+            "Id": "170",
+            "ParentId": "23",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "日式铁板烧",
+            "Id": "2391",
+            "ParentId": "23",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "日式烧烤/烤肉",
+            "Id": "2390",
+            "ParentId": "23",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "日式面条",
+            "Id": "2389",
+            "ParentId": "23",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "寿司",
+            "Id": "2040",
+            "ParentId": "23",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "日式寿司",
+                "Id": "2388",
+                "ParentId": "2040",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "外带寿司",
+                "Id": "2387",
+                "ParentId": "2040",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "回转寿司",
+                "Id": "2386",
+                "ParentId": "2040",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "日式火锅",
+            "Id": "2041",
+            "ParentId": "23",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他日本菜",
+            "Id": "2042",
+            "ParentId": "23",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "韩国菜",
+        "Id": "24",
+        "ParentId": "226",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "北京菜",
+        "Id": "27",
+        "ParentId": "226",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "其他北京菜",
+            "Id": "1994",
+            "ParentId": "27",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "烤鸭",
+            "Id": "1993",
+            "ParentId": "27",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "本帮江浙菜",
+        "Id": "30",
+        "ParentId": "226",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "浙江菜|浙菜",
+            "Id": "1995",
+            "ParentId": "30",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "宁波菜",
+                "Id": "1905",
+                "ParentId": "1995",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "杭帮菜",
+                "Id": "1904",
+                "ParentId": "1995",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "绍兴菜",
+                "Id": "1907",
+                "ParentId": "1995",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "东阳土菜",
+                "Id": "1906",
+                "ParentId": "1995",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "温州菜",
+                "Id": "1909",
+                "ParentId": "1995",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "衢州菜",
+                "Id": "1908",
+                "ParentId": "1995",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "其他浙江菜|浙菜",
+                "Id": "1911",
+                "ParentId": "1995",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "建德菜",
+                "Id": "1910",
+                "ParentId": "1995",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "舟山菜",
+                "Id": "2014",
+                "ParentId": "1995",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "其他本帮江浙菜",
+            "Id": "1998",
+            "ParentId": "30",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "上海菜|本帮菜",
+            "Id": "1997",
+            "ParentId": "30",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "白斩鸡",
+                "Id": "1919",
+                "ParentId": "1997",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "其他上海|本帮菜",
+                "Id": "1920",
+                "ParentId": "1997",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "江苏菜|苏菜",
+            "Id": "1996",
+            "ParentId": "30",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "苏帮菜",
+                "Id": "1913",
+                "ParentId": "1996",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "南京菜",
+                "Id": "1912",
+                "ParentId": "1996",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "船菜",
+                "Id": "1915",
+                "ParentId": "1996",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "淮扬菜",
+                "Id": "1914",
+                "ParentId": "1996",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "羊肉",
+                "Id": "1917",
+                "ParentId": "1996",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "大闸蟹",
+                "Id": "1916",
+                "ParentId": "1996",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "其他江苏菜|苏菜",
+                "Id": "1918",
+                "ParentId": "1996",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "无锡菜",
+                "Id": "2015",
+                "ParentId": "1996",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "东北菜",
+        "Id": "175",
+        "ParentId": "226",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "酱骨头",
+            "Id": "2006",
+            "ParentId": "175",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他东北菜",
+            "Id": "2007",
+            "ParentId": "175",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "炖菜",
+            "Id": "2004",
+            "ParentId": "175",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "砂锅",
+            "Id": "2005",
+            "ParentId": "175",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "西北菜",
+        "Id": "174",
+        "ParentId": "226",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "甘肃菜",
+            "Id": "2056",
+            "ParentId": "174",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "陕西菜|陕菜|秦菜",
+            "Id": "2057",
+            "ParentId": "174",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "陕北菜",
+                "Id": "1936",
+                "ParentId": "2057",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "其他陕西菜",
+                "Id": "1937",
+                "ParentId": "2057",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "陕南菜",
+                "Id": "1935",
+                "ParentId": "2057",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "关中菜",
+                "Id": "1934",
+                "ParentId": "2057",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "其他西北菜",
+            "Id": "2058",
+            "ParentId": "174",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "内蒙菜",
+            "Id": "234",
+            "ParentId": "174",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "青海菜",
+            "Id": "305",
+            "ParentId": "174",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "其他餐饮",
+        "Id": "184",
+        "ParentId": "226",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "其他餐饮美食",
+            "Id": "2124",
+            "ParentId": "184",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他亚洲菜",
+            "Id": "2123",
+            "ParentId": "184",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他中餐",
+            "Id": "236",
+            "ParentId": "184",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "火锅",
+        "Id": "201",
+        "ParentId": "226",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "老北京火锅",
+            "Id": "239",
+            "ParentId": "201",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "云南火锅",
+            "Id": "238",
+            "ParentId": "201",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "其他云南火锅",
+                "Id": "1894",
+                "ParentId": "238",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "菌菇火锅",
+                "Id": "1931",
+                "ParentId": "238",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "腊排骨火锅",
+                "Id": "1930",
+                "ParentId": "238",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "黑山羊火锅",
+                "Id": "1929",
+                "ParentId": "238",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "川味火锅",
+            "Id": "237",
+            "ParentId": "201",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "串串香",
+                "Id": "153",
+                "ParentId": "237",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "其他川味火锅",
+                "Id": "1922",
+                "ParentId": "237",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "重庆火锅",
+                "Id": "1921",
+                "ParentId": "237",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "其他火锅",
+            "Id": "244",
+            "ParentId": "201",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "打边炉",
+            "Id": "240",
+            "ParentId": "201",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "韩式火锅",
+            "Id": "313",
+            "ParentId": "201",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "炭火锅",
+            "Id": "312",
+            "ParentId": "201",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "砂锅火锅",
+            "Id": "2035",
+            "ParentId": "201",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "汤锅",
+            "Id": "2036",
+            "ParentId": "201",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "泰式火锅",
+            "Id": "2011",
+            "ParentId": "201",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "特色火锅",
+            "Id": "2012",
+            "ParentId": "201",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "羊蝎子火锅",
+                "Id": "242",
+                "ParentId": "2012",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "鱼火锅",
+                "Id": "241",
+                "ParentId": "2012",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "芋儿鸡",
+                "Id": "1927",
+                "ParentId": "2012",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "本地鸡窝",
+                "Id": "1926",
+                "ParentId": "2012",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "牛肉火锅",
+                "Id": "1925",
+                "ParentId": "2012",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "猪肚鸡火锅",
+                "Id": "1924",
+                "ParentId": "2012",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "海鲜火锅",
+                "Id": "1923",
+                "ParentId": "2012",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "其他特色火锅",
+                "Id": "1928",
+                "ParentId": "2012",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "小火锅",
+            "Id": "2013",
+            "ParentId": "201",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "澳门豆捞",
+                "Id": "323",
+                "ParentId": "2013",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "其他小火锅",
+                "Id": "1933",
+                "ParentId": "2013",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "涮涮锅",
+                "Id": "1932",
+                "ParentId": "2013",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "自助餐",
+        "Id": "202",
+        "ParentId": "226",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "其他自助餐",
+            "Id": "8",
+            "ParentId": "202",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "自助烧烤",
+            "Id": "171",
+            "ParentId": "202",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "自助海鲜",
+            "Id": "169",
+            "ParentId": "202",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "综合类自助",
+            "Id": "173",
+            "ParentId": "202",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "自助披萨",
+            "Id": "172",
+            "ParentId": "202",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "自助火锅",
+            "Id": "210",
+            "ParentId": "202",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "云贵菜",
+        "Id": "2166",
+        "ParentId": "226",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "云南菜|滇菜",
+            "Id": "35",
+            "ParentId": "2166",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "贵州菜|黔菜",
+            "Id": "36",
+            "ParentId": "2166",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他云贵菜",
+            "Id": "2122",
+            "ParentId": "2166",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "饮品店",
+        "Id": "2165",
+        "ParentId": "226",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "冰淇淋",
+            "Id": "13",
+            "ParentId": "2165",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "凉茶",
+            "Id": "2111",
+            "ParentId": "2165",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "奶茶/果汁",
+            "Id": "2110",
+            "ParentId": "2165",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "龟苓膏",
+            "Id": "2112",
+            "ParentId": "2165",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他饮品店",
+            "Id": "2113",
+            "ParentId": "2165",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "咖啡厅",
+            "Id": "262",
+            "ParentId": "2165",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "两岸咖啡",
+                "Id": "2031",
+                "ParentId": "262",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "耶士咖啡",
+                "Id": "2030",
+                "ParentId": "262",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "雕刻时光",
+                "Id": "1987",
+                "ParentId": "262",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "新岛咖啡",
+                "Id": "1986",
+                "ParentId": "262",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "百怡咖啡",
+                "Id": "1985",
+                "ParentId": "262",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "格兰维尔咖啡",
+                "Id": "1984",
+                "ParentId": "262",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "其他咖啡厅",
+                "Id": "1988",
+                "ParentId": "262",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "真锅咖啡",
+                "Id": "1980",
+                "ParentId": "262",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "迪欧咖啡",
+                "Id": "1981",
+                "ParentId": "262",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "Costa Coffee",
+                "Id": "1982",
+                "ParentId": "262",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "香啡缤",
+                "Id": "1983",
+                "ParentId": "262",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "星巴克",
+                "Id": "1978",
+                "ParentId": "262",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "上岛咖啡",
+                "Id": "1979",
+                "ParentId": "262",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "特色菜",
+        "Id": "2164",
+        "ParentId": "226",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "素食",
+            "Id": "16",
+            "ParentId": "2164",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "私房菜",
+            "Id": "120",
+            "ParentId": "2164",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "融合菜",
+            "Id": "2048",
+            "ParentId": "2164",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "官府菜",
+            "Id": "2049",
+            "ParentId": "2164",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "民族菜",
+            "Id": "2050",
+            "ParentId": "2164",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "清真菜",
+            "Id": "2051",
+            "ParentId": "2164",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "中西餐厅",
+            "Id": "2052",
+            "ParentId": "2164",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "野味",
+            "Id": "2053",
+            "ParentId": "2164",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "歌舞表演餐厅",
+            "Id": "2054",
+            "ParentId": "2164",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他特色菜",
+            "Id": "2055",
+            "ParentId": "2164",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "创意菜",
+            "Id": "223",
+            "ParentId": "2164",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "家常菜",
+            "Id": "2045",
+            "ParentId": "2164",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "农家菜",
+            "Id": "2046",
+            "ParentId": "2164",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "无国界料理",
+            "Id": "2047",
+            "ParentId": "2164",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "新疆菜",
+        "Id": "235",
+        "ParentId": "226",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "江河湖海鲜",
+        "Id": "2163",
+        "ParentId": "226",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "海鲜",
+            "Id": "9",
+            "ParentId": "2163",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "江鲜",
+            "Id": "2037",
+            "ParentId": "2163",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "湖鲜",
+            "Id": "2038",
+            "ParentId": "2163",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他江河湖海鲜",
+            "Id": "2039",
+            "ParentId": "2163",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "河北菜|冀菜",
+        "Id": "2162",
+        "ParentId": "226",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "台湾菜",
+        "Id": "232",
+        "ParentId": "226",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "湖北菜|鄂菜",
+        "Id": "231",
+        "ParentId": "226",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "湘菜",
+        "Id": "230",
+        "ParentId": "226",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "川菜",
+        "Id": "229",
+        "ParentId": "226",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "烤鱼",
+            "Id": "2032",
+            "ParentId": "229",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "酸菜鱼",
+            "Id": "2002",
+            "ParentId": "229",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他川菜",
+            "Id": "2003",
+            "ParentId": "229",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "江湖菜",
+            "Id": "2000",
+            "ParentId": "229",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "干锅|香锅",
+            "Id": "2001",
+            "ParentId": "229",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "自贡盐帮菜",
+            "Id": "1999",
+            "ParentId": "229",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "山东菜|鲁菜",
+        "Id": "228",
+        "ParentId": "226",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "食品保健",
+        "Id": "255",
+        "ParentId": "226",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "其他食品保健",
+            "Id": "258",
+            "ParentId": "255",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "零食",
+            "Id": "660",
+            "ParentId": "255",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "保健品",
+            "Id": "661",
+            "ParentId": "255",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "栗子/干果",
+            "Id": "662",
+            "ParentId": "255",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "面包甜点",
+        "Id": "249",
+        "ParentId": "226",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "面包蛋糕",
+            "Id": "12",
+            "ParentId": "249",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他面包甜点",
+            "Id": "179",
+            "ParentId": "249",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "中式糕饼",
+            "Id": "256",
+            "ParentId": "249",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "西式甜品",
+            "Id": "1900",
+            "ParentId": "249",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "港台甜品",
+            "Id": "1901",
+            "ParentId": "249",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "传统甜品",
+            "Id": "1902",
+            "ParentId": "249",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "新式甜品",
+            "Id": "1903",
+            "ParentId": "249",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "水果生鲜",
+        "Id": "257",
+        "ParentId": "226",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "菜市场",
+            "Id": "2295",
+            "ParentId": "257",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "水果",
+            "Id": "665",
+            "ParentId": "257",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "生鲜",
+            "Id": "666",
+            "ParentId": "257",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他水果生鲜",
+            "Id": "667",
+            "ParentId": "257",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "海南菜",
+        "Id": "304",
+        "ParentId": "226",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "广西菜",
+        "Id": "307",
+        "ParentId": "226",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "天津菜",
+        "Id": "306",
+        "ParentId": "226",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "西餐",
+        "Id": "309",
+        "ParentId": "226",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "法国菜",
+            "Id": "19",
+            "ParentId": "309",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "西式快餐",
+            "Id": "2189",
+            "ParentId": "309",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "汉堡",
+                "Id": "1848",
+                "ParentId": "2189",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "其他西式快餐",
+                "Id": "2016",
+                "ParentId": "2189",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "三明治",
+                "Id": "1938",
+                "ParentId": "2189",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "比萨|披萨",
+                "Id": "1939",
+                "ParentId": "2189",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "意大利菜",
+            "Id": "20",
+            "ParentId": "309",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他西餐",
+            "Id": "26",
+            "ParentId": "309",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "德国菜",
+            "Id": "2065",
+            "ParentId": "309",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "葡萄牙菜",
+            "Id": "2064",
+            "ParentId": "309",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "墨尔本美食",
+            "Id": "2067",
+            "ParentId": "309",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "希腊菜",
+            "Id": "2066",
+            "ParentId": "309",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "巴斯克菜",
+            "Id": "2069",
+            "ParentId": "309",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "巴西菜",
+            "Id": "2068",
+            "ParentId": "309",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "土耳其菜",
+            "Id": "2071",
+            "ParentId": "309",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "墨西哥菜",
+            "Id": "2070",
+            "ParentId": "309",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "秘鲁菜",
+            "Id": "2073",
+            "ParentId": "309",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "摩洛哥菜",
+            "Id": "2072",
+            "ParentId": "309",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "奥地利菜",
+            "Id": "2075",
+            "ParentId": "309",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "爱尔兰菜",
+            "Id": "2074",
+            "ParentId": "309",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "加勒比菜",
+            "Id": "2077",
+            "ParentId": "309",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "波兰菜",
+            "Id": "2076",
+            "ParentId": "309",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "瑞士菜",
+            "Id": "2079",
+            "ParentId": "309",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "克罗地亚菜",
+            "Id": "2078",
+            "ParentId": "309",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "西式正餐",
+            "Id": "2059",
+            "ParentId": "309",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "牛排",
+                "Id": "1940",
+                "ParentId": "2059",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "其他西式正餐",
+                "Id": "1941",
+                "ParentId": "2059",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "Brunch",
+            "Id": "2060",
+            "ParentId": "309",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "英国菜",
+            "Id": "2061",
+            "ParentId": "309",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "美国菜",
+            "Id": "2062",
+            "ParentId": "309",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "地中海菜",
+            "Id": "2063",
+            "ParentId": "309",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "黎巴嫩菜",
+            "Id": "2080",
+            "ParentId": "309",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "非洲菜",
+            "Id": "2081",
+            "ParentId": "309",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "中东菜",
+            "Id": "181",
+            "ParentId": "309",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "俄罗斯菜",
+            "Id": "310",
+            "ParentId": "309",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "西班牙菜",
+            "Id": "322",
+            "ParentId": "309",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "加拿大菜",
+            "Id": "2306",
+            "ParentId": "309",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "澳大利亚菜",
+            "Id": "2305",
+            "ParentId": "309",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "东南亚菜",
+        "Id": "308",
+        "ParentId": "226",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "其他东南亚菜",
+            "Id": "248",
+            "ParentId": "308",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "泰国菜",
+            "Id": "246",
+            "ParentId": "308",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "印度菜",
+            "Id": "247",
+            "ParentId": "308",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "新加坡菜",
+            "Id": "245",
+            "ParentId": "308",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "越南菜",
+            "Id": "321",
+            "ParentId": "308",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "马来西亚菜",
+            "Id": "2008",
+            "ParentId": "308",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "烧烤",
+        "Id": "315",
+        "ParentId": "226",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "本地烤肉",
+            "Id": "220",
+            "ParentId": "315",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "拉美烧烤",
+            "Id": "316",
+            "ParentId": "315",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "韩式烤肉",
+            "Id": "318",
+            "ParentId": "315",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他烧烤",
+            "Id": "383",
+            "ParentId": "315",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "烤翅",
+            "Id": "2043",
+            "ParentId": "315",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "烤串",
+            "Id": "2044",
+            "ParentId": "315",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "粤菜",
+        "Id": "319",
+        "ParentId": "226",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "广州菜",
+            "Id": "2116",
+            "ParentId": "319",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "顺德菜",
+            "Id": "2117",
+            "ParentId": "319",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "湛江菜",
+            "Id": "2118",
+            "ParentId": "319",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "潮州菜",
+            "Id": "2119",
+            "ParentId": "319",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "燕翅鲍",
+            "Id": "2114",
+            "ParentId": "319",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "茶餐厅",
+            "Id": "2115",
+            "ParentId": "319",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "烧腊",
+            "Id": "2120",
+            "ParentId": "319",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他粤菜",
+            "Id": "2121",
+            "ParentId": "319",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "客家菜",
+            "Id": "233",
+            "ParentId": "319",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "江西菜|赣菜",
+        "Id": "298",
+        "ParentId": "226",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "山西菜|晋菜",
+        "Id": "299",
+        "ParentId": "226",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "徽菜|徽州菜",
+        "Id": "300",
+        "ParentId": "226",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "福建菜|闽菜",
+        "Id": "301",
+        "ParentId": "226",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "闽南菜",
+            "Id": "2033",
+            "ParentId": "301",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "闽西菜",
+            "Id": "2034",
+            "ParentId": "301",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他福建菜|闽菜",
+            "Id": "2010",
+            "ParentId": "301",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "福州菜",
+            "Id": "2009",
+            "ParentId": "301",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "西藏菜",
+        "Id": "302",
+        "ParentId": "226",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "河南菜|豫菜",
+        "Id": "303",
+        "ParentId": "226",
+        "IsLeaf": true,
+        "SubCates": []
+      }
+    ]
+  },
+  {
+    "Name": "教育培训",
+    "Id": "289",
+    "ParentId": "0",
+    "IsLeaf": false,
+    "SubCates": [
+      {
+        "Name": "艺术培训",
+        "Id": "76",
+        "ParentId": "289",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "音乐培训",
+            "Id": "507",
+            "ParentId": "76",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "钢琴",
+                "Id": "508",
+                "ParentId": "507",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "吉他",
+                "Id": "509",
+                "ParentId": "507",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "小提琴",
+                "Id": "510",
+                "ParentId": "507",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "古筝",
+                "Id": "511",
+                "ParentId": "507",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "架子鼓",
+                "Id": "512",
+                "ParentId": "507",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "声乐",
+                "Id": "513",
+                "ParentId": "507",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "其他音乐培训",
+                "Id": "514",
+                "ParentId": "507",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "其他艺术培训",
+            "Id": "516",
+            "ParentId": "76",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "美术培训",
+            "Id": "515",
+            "ParentId": "76",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "书法",
+                "Id": "1836",
+                "ParentId": "515",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "其他美术培训",
+                "Id": "1837",
+                "ParentId": "515",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "绘画",
+                "Id": "1835",
+                "ParentId": "515",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "其他教育培训",
+        "Id": "78",
+        "ParentId": "289",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "语言培训",
+        "Id": "162",
+        "ParentId": "289",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "外语",
+            "Id": "518",
+            "ParentId": "162",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "俄语",
+                "Id": "2239",
+                "ParentId": "518",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "西班牙语",
+                "Id": "2240",
+                "ParentId": "518",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "英语",
+                "Id": "519",
+                "ParentId": "518",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "其他外语",
+                "Id": "524",
+                "ParentId": "518",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "日语",
+                "Id": "520",
+                "ParentId": "518",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "韩语",
+                "Id": "521",
+                "ParentId": "518",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "法语",
+                "Id": "522",
+                "ParentId": "518",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "德语",
+                "Id": "523",
+                "ParentId": "518",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "汉语",
+            "Id": "525",
+            "ParentId": "162",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他语言培训",
+            "Id": "526",
+            "ParentId": "162",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "职业技术",
+        "Id": "193",
+        "ParentId": "289",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "公务员培训",
+            "Id": "2259",
+            "ParentId": "193",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "司法考试",
+            "Id": "2245",
+            "ParentId": "193",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "摄影培训",
+            "Id": "2244",
+            "ParentId": "193",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "管理培训",
+            "Id": "2243",
+            "ParentId": "193",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他职业技术",
+            "Id": "532",
+            "ParentId": "193",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "会计",
+            "Id": "529",
+            "ParentId": "193",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "美容化妆",
+            "Id": "528",
+            "ParentId": "193",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "厨艺",
+            "Id": "531",
+            "ParentId": "193",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "IT",
+            "Id": "530",
+            "ParentId": "193",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "教育院校",
+        "Id": "479",
+        "ParentId": "289",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "其他教育院校",
+            "Id": "497",
+            "ParentId": "479",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "高中",
+            "Id": "481",
+            "ParentId": "479",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "大学",
+            "Id": "480",
+            "ParentId": "479",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "小学",
+            "Id": "483",
+            "ParentId": "479",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "其他小学",
+                "Id": "488",
+                "ParentId": "483",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "民办小学",
+                "Id": "485",
+                "ParentId": "483",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "公办小学",
+                "Id": "484",
+                "ParentId": "483",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "寄宿小学",
+                "Id": "487",
+                "ParentId": "483",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "九年一贯制",
+                "Id": "486",
+                "ParentId": "483",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "初中",
+            "Id": "482",
+            "ParentId": "479",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "驾驶培训",
+        "Id": "475",
+        "ParentId": "289",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "驾校",
+            "Id": "194",
+            "ParentId": "475",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "陪练",
+            "Id": "292",
+            "ParentId": "475",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他汽车培训",
+            "Id": "478",
+            "ParentId": "475",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "兴趣生活",
+        "Id": "498",
+        "ParentId": "289",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "手工培训",
+            "Id": "2310",
+            "ParentId": "498",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "棋牌培训",
+            "Id": "2311",
+            "ParentId": "498",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "烘焙培训",
+            "Id": "2308",
+            "ParentId": "498",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "插花培训",
+            "Id": "2309",
+            "ParentId": "498",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他兴趣生活",
+            "Id": "2312",
+            "ParentId": "498",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "升学辅导",
+        "Id": "499",
+        "ParentId": "289",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "艺考",
+            "Id": "2258",
+            "ParentId": "499",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "考研",
+            "Id": "2241",
+            "ParentId": "499",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "专升本/自考",
+            "Id": "2242",
+            "ParentId": "499",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "小学辅导",
+            "Id": "500",
+            "ParentId": "499",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他升学辅导",
+            "Id": "608",
+            "ParentId": "499",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "高中辅导",
+            "Id": "607",
+            "ParentId": "499",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "初中辅导",
+            "Id": "606",
+            "ParentId": "499",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "留学",
+        "Id": "609",
+        "ParentId": "289",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "留学申请",
+            "Id": "2318",
+            "ParentId": "609",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "雅思托福",
+            "Id": "2319",
+            "ParentId": "609",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他留学服务",
+            "Id": "2320",
+            "ParentId": "609",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "购物",
+    "Id": "379",
+    "ParentId": "0",
+    "IsLeaf": false,
+    "SubCates": [
+      {
+        "Name": "植物花卉",
+        "Id": "118",
+        "ParentId": "379",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "眼镜",
+        "Id": "155",
+        "ParentId": "379",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "超市便利",
+        "Id": "381",
+        "ParentId": "379",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "综合商场",
+        "Id": "380",
+        "ParentId": "379",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "其他购物",
+        "Id": "382",
+        "ParentId": "379",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "钟表",
+        "Id": "686",
+        "ParentId": "379",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "运动户外",
+        "Id": "685",
+        "ParentId": "379",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "文物古玩",
+        "Id": "684",
+        "ParentId": "379",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "珠宝饰品",
+        "Id": "678",
+        "ParentId": "379",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "其他珠宝饰品",
+            "Id": "681",
+            "ParentId": "678",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "流行饰品",
+            "Id": "680",
+            "ParentId": "678",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "黄金珠宝",
+            "Id": "679",
+            "ParentId": "678",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "杂货礼品",
+        "Id": "674",
+        "ParentId": "379",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "其他杂货礼品",
+            "Id": "676",
+            "ParentId": "674",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "手工艺品",
+            "Id": "675",
+            "ParentId": "674",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "免税店",
+        "Id": "694",
+        "ParentId": "379",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "批发店",
+        "Id": "695",
+        "ParentId": "379",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "奢侈品",
+        "Id": "692",
+        "ParentId": "379",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "品牌折扣店",
+        "Id": "693",
+        "ParentId": "379",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "乐器",
+        "Id": "690",
+        "ParentId": "379",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "居家日用",
+        "Id": "691",
+        "ParentId": "379",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "文化办公",
+        "Id": "688",
+        "ParentId": "379",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "集市",
+        "Id": "689",
+        "ParentId": "379",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "电子数码",
+        "Id": "649",
+        "ParentId": "379",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "服饰鞋包",
+        "Id": "650",
+        "ParentId": "379",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "鞋靴",
+            "Id": "2382",
+            "ParentId": "650",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "服装",
+            "Id": "2383",
+            "ParentId": "650",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "配饰",
+            "Id": "655",
+            "ParentId": "650",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "箱包",
+            "Id": "656",
+            "ParentId": "650",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "内衣",
+            "Id": "657",
+            "ParentId": "650",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他服饰鞋包",
+            "Id": "658",
+            "ParentId": "650",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "烟酒茶叶",
+        "Id": "668",
+        "ParentId": "379",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "图书音像",
+        "Id": "669",
+        "ParentId": "379",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "其他图书音像",
+            "Id": "673",
+            "ParentId": "669",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "漫画",
+            "Id": "672",
+            "ParentId": "669",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "图书",
+            "Id": "670",
+            "ParentId": "669",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "音像",
+            "Id": "671",
+            "ParentId": "669",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "非标住宿",
+    "Id": "2327",
+    "ParentId": "0",
+    "IsLeaf": false,
+    "SubCates": [
+      {
+        "Name": "民宿",
+        "Id": "2328",
+        "ParentId": "2327",
+        "IsLeaf": true,
+        "SubCates": []
+      }
+    ]
+  },
+  {
+    "Name": "会议宴会",
+    "Id": "385",
+    "ParentId": "0",
+    "IsLeaf": false,
+    "SubCates": [
+      {
+        "Name": "活动聚会",
+        "Id": "831",
+        "ParentId": "385",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "会议培训",
+        "Id": "830",
+        "ParentId": "385",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "宴请招待",
+        "Id": "832",
+        "ParentId": "385",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "其他会议宴会",
+        "Id": "833",
+        "ParentId": "385",
+        "IsLeaf": true,
+        "SubCates": []
+      }
+    ]
+  },
+  {
+    "Name": "爱车",
+    "Id": "390",
+    "ParentId": "0",
+    "IsLeaf": false,
+    "SubCates": [
+      {
+        "Name": "交警队",
+        "Id": "2192",
+        "ParentId": "390",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "汽车配件",
+        "Id": "2186",
+        "ParentId": "390",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "年检站",
+        "Id": "2191",
+        "ParentId": "390",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "汽车租赁",
+        "Id": "108",
+        "ParentId": "390",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "加油站",
+        "Id": "109",
+        "ParentId": "390",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "停车场",
+        "Id": "395",
+        "ParentId": "390",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "汽车保险",
+        "Id": "394",
+        "ParentId": "390",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "汽车美容",
+        "Id": "393",
+        "ParentId": "390",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "洗车",
+        "Id": "392",
+        "ParentId": "390",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "汽车销售",
+        "Id": "396",
+        "ParentId": "390",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "4S店",
+            "Id": "554",
+            "ParentId": "396",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "现代",
+                "Id": "410",
+                "ParentId": "554",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "荣威",
+                "Id": "411",
+                "ParentId": "554",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "马自达",
+                "Id": "408",
+                "ParentId": "554",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "福特",
+                "Id": "409",
+                "ParentId": "554",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "比亚迪",
+                "Id": "414",
+                "ParentId": "554",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "开瑞",
+                "Id": "415",
+                "ParentId": "554",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "奇瑞",
+                "Id": "412",
+                "ParentId": "554",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "东南",
+                "Id": "413",
+                "ParentId": "554",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "丰田",
+                "Id": "402",
+                "ParentId": "554",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "奥迪",
+                "Id": "403",
+                "ParentId": "554",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "雪佛兰",
+                "Id": "400",
+                "ParentId": "554",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "本田",
+                "Id": "401",
+                "ParentId": "554",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "雪铁龙",
+                "Id": "406",
+                "ParentId": "554",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "标致",
+                "Id": "407",
+                "ParentId": "554",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "奔驰",
+                "Id": "404",
+                "ParentId": "554",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "东风日产",
+                "Id": "405",
+                "ParentId": "554",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "别克",
+                "Id": "399",
+                "ParentId": "554",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "大众",
+                "Id": "398",
+                "ParentId": "554",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "宝马",
+                "Id": "397",
+                "ParentId": "554",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "铃木",
+                "Id": "416",
+                "ParentId": "554",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "东风悦达起亚",
+                "Id": "419",
+                "ParentId": "554",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "其他4S店",
+                "Id": "420",
+                "ParentId": "554",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "二手车",
+            "Id": "577",
+            "ParentId": "396",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他汽车销售",
+            "Id": "578",
+            "ParentId": "396",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "其他爱车",
+        "Id": "384",
+        "ParentId": "390",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "维修保养",
+        "Id": "391",
+        "ParentId": "390",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "汽车充电",
+        "Id": "421",
+        "ParentId": "390",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "休息区",
+        "Id": "422",
+        "ParentId": "390",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "汽车改装",
+        "Id": "548",
+        "ParentId": "390",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "紧急救援",
+        "Id": "547",
+        "ParentId": "390",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "加气站",
+        "Id": "1844",
+        "ParentId": "390",
+        "IsLeaf": true,
+        "SubCates": []
+      }
+    ]
+  },
+  {
+    "Name": "亲子",
+    "Id": "389",
+    "ParentId": "0",
+    "IsLeaf": false,
+    "SubCates": [
+      {
+        "Name": "上门拍",
+        "Id": "2230",
+        "ParentId": "389",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "儿童跟拍",
+            "Id": "2234",
+            "ParentId": "2230",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "百天照",
+            "Id": "2232",
+            "ParentId": "2230",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "亲子外拍",
+            "Id": "2233",
+            "ParentId": "2230",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他上门拍",
+            "Id": "2238",
+            "ParentId": "2230",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "满月照",
+            "Id": "2231",
+            "ParentId": "2230",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "亲子服务",
+        "Id": "156",
+        "ParentId": "389",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "其他亲子服务",
+            "Id": "747",
+            "ParentId": "156",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "诞生礼",
+            "Id": "746",
+            "ParentId": "156",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "婴儿理发",
+            "Id": "745",
+            "ParentId": "156",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "幼儿教育",
+        "Id": "192",
+        "ParentId": "389",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "综合教育",
+            "Id": "2219",
+            "ParentId": "192",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "幼小衔接",
+            "Id": "2220",
+            "ParentId": "192",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "教育机器人",
+            "Id": "2261",
+            "ParentId": "192",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "托班/托儿所",
+            "Id": "496",
+            "ParentId": "192",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "其他托班/托儿所",
+                "Id": "2237",
+                "ParentId": "496",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "晚托",
+                "Id": "2218",
+                "ParentId": "496",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "双语托班",
+                "Id": "2217",
+                "ParentId": "496",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "寒暑托",
+                "Id": "2216",
+                "ParentId": "496",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "幼儿园",
+            "Id": "489",
+            "ParentId": "192",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "双语幼儿园",
+                "Id": "493",
+                "ParentId": "489",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "示范/一级园",
+                "Id": "492",
+                "ParentId": "489",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "其他幼儿园",
+                "Id": "495",
+                "ParentId": "489",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "寄宿幼儿园",
+                "Id": "494",
+                "ParentId": "489",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "民办幼儿园",
+                "Id": "491",
+                "ParentId": "489",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "公办幼儿园",
+                "Id": "490",
+                "ParentId": "489",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "早教中心",
+            "Id": "715",
+            "ParentId": "192",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "感觉统合",
+                "Id": "2200",
+                "ParentId": "715",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "艺术启蒙",
+                "Id": "2201",
+                "ParentId": "715",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "思维训练",
+                "Id": "2202",
+                "ParentId": "715",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "亲子游泳",
+                "Id": "2203",
+                "ParentId": "715",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "蒙氏教育",
+                "Id": "2197",
+                "ParentId": "715",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "大脑开发",
+                "Id": "2198",
+                "ParentId": "715",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "情商培养",
+                "Id": "2199",
+                "ParentId": "715",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "其他早教中心",
+                "Id": "2235",
+                "ParentId": "715",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "幼儿才艺",
+            "Id": "717",
+            "ParentId": "192",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "钢琴培训",
+                "Id": "2211",
+                "ParentId": "717",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "乐器演奏",
+                "Id": "2210",
+                "ParentId": "717",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "珠心算",
+                "Id": "2215",
+                "ParentId": "717",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "主持表演",
+                "Id": "2214",
+                "ParentId": "717",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "少儿跆拳道",
+                "Id": "2213",
+                "ParentId": "717",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "围棋",
+                "Id": "2212",
+                "ParentId": "717",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "乐高",
+                "Id": "719",
+                "ParentId": "717",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "少儿舞蹈",
+                "Id": "720",
+                "ParentId": "717",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "少儿美术",
+                "Id": "721",
+                "ParentId": "717",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "少儿国学",
+                "Id": "722",
+                "ParentId": "717",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "少儿运动",
+                "Id": "723",
+                "ParentId": "717",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "综合才艺",
+                "Id": "724",
+                "ParentId": "717",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "其他少儿才艺",
+                "Id": "725",
+                "ParentId": "717",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "幼儿外语",
+            "Id": "716",
+            "ParentId": "192",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "兴趣英语",
+                "Id": "2204",
+                "ParentId": "716",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "学科英语",
+                "Id": "2205",
+                "ParentId": "716",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "美式英语",
+                "Id": "2206",
+                "ParentId": "716",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "应试英语",
+                "Id": "2207",
+                "ParentId": "716",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "其他少儿外语",
+                "Id": "2236",
+                "ParentId": "716",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "绘本阅读",
+                "Id": "2209",
+                "ParentId": "716",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "国际英语",
+                "Id": "2208",
+                "ParentId": "716",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "其他幼儿教育",
+            "Id": "726",
+            "ParentId": "192",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "亲子餐厅",
+        "Id": "2321",
+        "ParentId": "389",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "不孕不育医院",
+        "Id": "2393",
+        "ParentId": "389",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "亲子摄影",
+        "Id": "535",
+        "ParentId": "389",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "韩式儿童摄影",
+            "Id": "2193",
+            "ParentId": "535",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "儿童摄影",
+            "Id": "2194",
+            "ParentId": "535",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "亲子照",
+            "Id": "2195",
+            "ParentId": "535",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "亲子婚纱照",
+            "Id": "2196",
+            "ParentId": "535",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他亲子摄影",
+            "Id": "2246",
+            "ParentId": "535",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "全家福",
+            "Id": "543",
+            "ParentId": "535",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "孕妇写真",
+        "Id": "536",
+        "ParentId": "389",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "其他亲子",
+        "Id": "748",
+        "ParentId": "389",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "宝宝派对",
+        "Id": "736",
+        "ParentId": "389",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "纪念品定制",
+            "Id": "2222",
+            "ParentId": "736",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "生日Party",
+            "Id": "2221",
+            "ParentId": "736",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "宝宝宴",
+            "Id": "739",
+            "ParentId": "736",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "派对策划",
+            "Id": "738",
+            "ParentId": "736",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "亲子游乐",
+        "Id": "740",
+        "ParentId": "389",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "绘本馆",
+            "Id": "2226",
+            "ParentId": "740",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "轮滑",
+            "Id": "2227",
+            "ParentId": "740",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "运动探险",
+            "Id": "2224",
+            "ParentId": "740",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "角色扮演",
+            "Id": "2225",
+            "ParentId": "740",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "亲子DIY",
+            "Id": "2228",
+            "ParentId": "740",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "冬夏令营",
+            "Id": "2229",
+            "ParentId": "740",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "儿童主题乐园",
+            "Id": "2223",
+            "ParentId": "740",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "亲子乐园",
+            "Id": "60",
+            "ParentId": "740",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "亲子会所",
+            "Id": "2375",
+            "ParentId": "740",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他亲子游乐",
+            "Id": "743",
+            "ParentId": "740",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "婴儿游泳",
+            "Id": "742",
+            "ParentId": "740",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "亲子购物",
+        "Id": "708",
+        "ParentId": "389",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "其他亲子购物",
+            "Id": "713",
+            "ParentId": "708",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "孕产用品",
+            "Id": "712",
+            "ParentId": "708",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "儿童服饰",
+            "Id": "709",
+            "ParentId": "708",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "宝宝用品",
+            "Id": "711",
+            "ParentId": "708",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "玩具",
+            "Id": "710",
+            "ParentId": "708",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "孕产护理",
+        "Id": "727",
+        "ParentId": "389",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "月子会所",
+            "Id": "728",
+            "ParentId": "727",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "月嫂",
+            "Id": "730",
+            "ParentId": "727",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "月子餐",
+            "Id": "731",
+            "ParentId": "727",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "开奶催乳",
+            "Id": "732",
+            "ParentId": "727",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "月子服务",
+            "Id": "733",
+            "ParentId": "727",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "产后恢复",
+            "Id": "734",
+            "ParentId": "727",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他孕产护理",
+            "Id": "735",
+            "ParentId": "727",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "妇幼医院",
+        "Id": "769",
+        "ParentId": "389",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "儿童医院",
+        "Id": "1881",
+        "ParentId": "389",
+        "IsLeaf": true,
+        "SubCates": []
+      }
+    ]
+  },
+  {
+    "Name": "结婚",
+    "Id": "388",
+    "ParentId": "0",
+    "IsLeaf": false,
+    "SubCates": [
+      {
+        "Name": "司仪主持",
+        "Id": "2179",
+        "ParentId": "388",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "彩妆造型",
+        "Id": "2181",
+        "ParentId": "388",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "婚礼跟拍",
+        "Id": "2180",
+        "ParentId": "388",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "旅拍",
+        "Id": "2300",
+        "ParentId": "388",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "成人写真",
+        "Id": "98",
+        "ParentId": "388",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "婚纱摄影",
+        "Id": "96",
+        "ParentId": "388",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "其他婚纱摄影",
+            "Id": "541",
+            "ParentId": "96",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "工作室",
+            "Id": "540",
+            "ParentId": "96",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "影楼",
+            "Id": "539",
+            "ParentId": "96",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "婚庆公司",
+        "Id": "119",
+        "ParentId": "388",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "其他婚庆公司",
+            "Id": "2150",
+            "ParentId": "119",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "婚礼策划",
+            "Id": "449",
+            "ParentId": "119",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "高端定制",
+            "Id": "448",
+            "ParentId": "119",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "婚纱礼服",
+        "Id": "115",
+        "ParentId": "388",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "其他婚纱礼服",
+            "Id": "458",
+            "ParentId": "115",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "旗袍/龙凤褂",
+            "Id": "457",
+            "ParentId": "115",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "晚礼服",
+            "Id": "456",
+            "ParentId": "115",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "婚纱",
+            "Id": "455",
+            "ParentId": "115",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "婚房装修",
+        "Id": "472",
+        "ParentId": "388",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "其他结婚",
+        "Id": "473",
+        "ParentId": "388",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "婚礼喜品",
+        "Id": "471",
+        "ParentId": "388",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "海外婚礼",
+        "Id": "2399",
+        "ParentId": "388",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "西服定制",
+        "Id": "504",
+        "ParentId": "388",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "婚宴场地",
+        "Id": "501",
+        "ParentId": "388",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "游轮婚礼",
+            "Id": "464",
+            "ParentId": "501",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他婚宴场地",
+            "Id": "465",
+            "ParentId": "501",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "婚礼会所",
+            "Id": "463",
+            "ParentId": "501",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "特色餐厅",
+            "Id": "462",
+            "ParentId": "501",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "星级酒店",
+            "Id": "461",
+            "ParentId": "501",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "洋房婚宴",
+            "Id": "2398",
+            "ParentId": "501",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "婚车租赁",
+        "Id": "502",
+        "ParentId": "388",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "婚戒首饰",
+        "Id": "503",
+        "ParentId": "388",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "其他婚戒首饰",
+            "Id": "470",
+            "ParentId": "503",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "裸钻定制",
+            "Id": "468",
+            "ParentId": "503",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "品牌珠宝",
+            "Id": "469",
+            "ParentId": "503",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "医疗",
+    "Id": "450",
+    "ParentId": "0",
+    "IsLeaf": false,
+    "SubCates": [
+      {
+        "Name": "口腔齿科",
+        "Id": "46",
+        "ParentId": "450",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "体检中心",
+        "Id": "45",
+        "ParentId": "450",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "其他医疗",
+        "Id": "377",
+        "ParentId": "450",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "药店",
+        "Id": "454",
+        "ParentId": "450",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "心血管医院",
+        "Id": "2397",
+        "ParentId": "450",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "肛肠科医院",
+        "Id": "2396",
+        "ParentId": "450",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "产科医院",
+        "Id": "2395",
+        "ParentId": "450",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "医院",
+        "Id": "451",
+        "ParentId": "450",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "中医院",
+            "Id": "452",
+            "ParentId": "451",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "综合医院",
+            "Id": "766",
+            "ParentId": "451",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "专科医院",
+            "Id": "764",
+            "ParentId": "451",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "传染病医院",
+                "Id": "1888",
+                "ParentId": "764",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "胸科医院",
+                "Id": "1889",
+                "ParentId": "764",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "肾科医院",
+                "Id": "1882",
+                "ParentId": "764",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "肿瘤医院",
+                "Id": "1880",
+                "ParentId": "764",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "脑科医院",
+                "Id": "1885",
+                "ParentId": "764",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "骨科医院",
+                "Id": "1878",
+                "ParentId": "764",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "其他专科医院",
+                "Id": "1877",
+                "ParentId": "764",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "其他医院",
+            "Id": "1856",
+            "ParentId": "451",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "男科医院",
+        "Id": "2394",
+        "ParentId": "450",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "诊所",
+        "Id": "763",
+        "ParentId": "450",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "门诊",
+        "Id": "760",
+        "ParentId": "450",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "防疫站",
+        "Id": "758",
+        "ParentId": "450",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "急救中心",
+        "Id": "759",
+        "ParentId": "450",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "保健疗养院",
+        "Id": "756",
+        "ParentId": "450",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "眼科医院",
+        "Id": "1883",
+        "ParentId": "450",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "精神卫生机构",
+        "Id": "1887",
+        "ParentId": "450",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "妇科医院",
+        "Id": "1886",
+        "ParentId": "450",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "耳鼻喉医院",
+        "Id": "1884",
+        "ParentId": "450",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "皮肤病医院",
+        "Id": "1879",
+        "ParentId": "450",
+        "IsLeaf": true,
+        "SubCates": []
+      }
+    ]
+  },
+  {
+    "Name": "家装",
+    "Id": "600",
+    "ParentId": "0",
+    "IsLeaf": false,
+    "SubCates": [
+      {
+        "Name": "家居",
+        "Id": "2187",
+        "ParentId": "600",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "厨具餐具",
+            "Id": "2292",
+            "ParentId": "2187",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他家具家居",
+            "Id": "631",
+            "ParentId": "2187",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "家纺布艺",
+            "Id": "630",
+            "ParentId": "2187",
+            "IsLeaf": false,
+            "SubCates": [
+              {
+                "Name": "其他家纺布艺",
+                "Id": "2294",
+                "ParentId": "630",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "床上用品",
+                "Id": "2293",
+                "ParentId": "630",
+                "IsLeaf": true,
+                "SubCates": []
+              },
+              {
+                "Name": "窗帘",
+                "Id": "2379",
+                "ParentId": "630",
+                "IsLeaf": true,
+                "SubCates": []
+              }
+            ]
+          },
+          {
+            "Name": "家居饰品",
+            "Id": "628",
+            "ParentId": "2187",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "智能家居",
+            "Id": "637",
+            "ParentId": "2187",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "家装展会",
+        "Id": "2322",
+        "ParentId": "600",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "家具",
+        "Id": "627",
+        "ParentId": "600",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "定制家具",
+            "Id": "2380",
+            "ParentId": "627",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "成品家具",
+            "Id": "2381",
+            "ParentId": "627",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "装修设计",
+        "Id": "601",
+        "ParentId": "600",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "其他装修设计",
+            "Id": "644",
+            "ParentId": "601",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "半包装修",
+            "Id": "641",
+            "ParentId": "601",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "清包装修",
+            "Id": "643",
+            "ParentId": "601",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "全包装修",
+            "Id": "642",
+            "ParentId": "601",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "建材",
+        "Id": "603",
+        "ParentId": "600",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "油漆涂料",
+            "Id": "2269",
+            "ParentId": "603",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "瓷砖石材",
+            "Id": "2270",
+            "ParentId": "603",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "墙纸墙艺",
+            "Id": "2271",
+            "ParentId": "603",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "电工电料",
+            "Id": "2281",
+            "ParentId": "603",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "管材管件",
+            "Id": "2280",
+            "ParentId": "603",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "门窗",
+            "Id": "2279",
+            "ParentId": "603",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "木材板材",
+            "Id": "2278",
+            "ParentId": "603",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "楼梯",
+            "Id": "2277",
+            "ParentId": "603",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "地板",
+            "Id": "2276",
+            "ParentId": "603",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "家用五金",
+            "Id": "2275",
+            "ParentId": "603",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "集成吊顶",
+            "Id": "2274",
+            "ParentId": "603",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "厨卫洁具",
+            "Id": "2273",
+            "ParentId": "603",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "橱柜",
+            "Id": "2272",
+            "ParentId": "603",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "全屋定制",
+            "Id": "2378",
+            "ParentId": "603",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "灯饰照明",
+            "Id": "629",
+            "ParentId": "603",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他建材",
+            "Id": "639",
+            "ParentId": "603",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "家装卖场",
+        "Id": "605",
+        "ParentId": "600",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "建材卖场",
+            "Id": "2298",
+            "ParentId": "605",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他家装卖场",
+            "Id": "2299",
+            "ParentId": "605",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "灯饰卖场",
+            "Id": "2296",
+            "ParentId": "605",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "家居卖场",
+            "Id": "2297",
+            "ParentId": "605",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "家用电器",
+        "Id": "604",
+        "ParentId": "600",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "其他家装",
+        "Id": "645",
+        "ParentId": "600",
+        "IsLeaf": true,
+        "SubCates": []
+      }
+    ]
+  },
+  {
+    "Name": "其他",
+    "Id": "1862",
+    "ParentId": "0",
+    "IsLeaf": false,
+    "SubCates": [
+      {
+        "Name": "慈善",
+        "Id": "139",
+        "ParentId": "1862",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "其他活动单",
+        "Id": "141",
+        "ParentId": "1862",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "美梦成真",
+        "Id": "140",
+        "ParentId": "1862",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "霸王餐",
+        "Id": "297",
+        "ParentId": "1862",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "地名地址",
+        "Id": "749",
+        "ParentId": "1862",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "城市",
+            "Id": "751",
+            "ParentId": "749",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "商圈",
+            "Id": "750",
+            "ParentId": "749",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "其他地名地址",
+            "Id": "754",
+            "ParentId": "749",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "宠物",
+    "Id": "1861",
+    "ParentId": "0",
+    "IsLeaf": false,
+    "SubCates": [
+      {
+        "Name": "宠物店",
+        "Id": "114",
+        "ParentId": "1861",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "猫舍犬舍",
+        "Id": "2385",
+        "ParentId": "1861",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "宠物食品用品",
+        "Id": "2384",
+        "ParentId": "1861",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "宠物医院",
+        "Id": "453",
+        "ParentId": "1861",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "其他宠物",
+        "Id": "1863",
+        "ParentId": "1861",
+        "IsLeaf": true,
+        "SubCates": []
+      }
+    ]
+  },
+  {
+    "Name": "K歌",
+    "Id": "1853",
+    "ParentId": "0",
+    "IsLeaf": false,
+    "SubCates": [
+      {
+        "Name": "其他K歌",
+        "Id": "2185",
+        "ParentId": "1853",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "录音棚",
+        "Id": "2184",
+        "ParentId": "1853",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "KTV",
+        "Id": "51",
+        "ParentId": "1853",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "其他KTV",
+            "Id": "2161",
+            "ParentId": "51",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "会所型KTV",
+            "Id": "2160",
+            "ParentId": "51",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "量贩式KTV",
+            "Id": "2159",
+            "ParentId": "51",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "电影演出赛事",
+    "Id": "1854",
+    "ParentId": "0",
+    "IsLeaf": false,
+    "SubCates": [
+      {
+        "Name": "院线影院",
+        "Id": "52",
+        "ParentId": "1854",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "影视公司",
+        "Id": "2290",
+        "ParentId": "1854",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "其他电影演出赛事",
+        "Id": "2291",
+        "ParentId": "1854",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "演艺公司",
+        "Id": "2289",
+        "ParentId": "1854",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "赛事",
+        "Id": "2146",
+        "ParentId": "1854",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "大型演出",
+        "Id": "2145",
+        "ParentId": "1854",
+        "IsLeaf": true,
+        "SubCates": []
+      },
+      {
+        "Name": "演出场馆",
+        "Id": "364",
+        "ParentId": "1854",
+        "IsLeaf": false,
+        "SubCates": [
+          {
+            "Name": "其他演出场馆",
+            "Id": "2288",
+            "ParentId": "364",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "相声会馆",
+            "Id": "2287",
+            "ParentId": "364",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "艺术中心/文化广场",
+            "Id": "2286",
+            "ParentId": "364",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "礼堂",
+            "Id": "2285",
+            "ParentId": "364",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "音乐厅",
+            "Id": "2284",
+            "ParentId": "364",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "戏院",
+            "Id": "2283",
+            "ParentId": "364",
+            "IsLeaf": true,
+            "SubCates": []
+          },
+          {
+            "Name": "剧场/剧院",
+            "Id": "2282",
+            "ParentId": "364",
+            "IsLeaf": true,
+            "SubCates": []
+          }
+        ]
+      },
+      {
+        "Name": "演出票务",
+        "Id": "365",
+        "ParentId": "1854",
+        "IsLeaf": true,
+        "SubCates": []
+      }
+    ]
+  }
+]

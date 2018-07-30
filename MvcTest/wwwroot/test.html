@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>capture screen</title>
+    <script lang="ja">
+        function loadJS(url, success) {
+            var domScript = document.createElement('script');
+            domScript.src = url;
+            domScript.onload = domScript.onreadystatechange = function () {
+                if (!this.readyState || 'loaded' === this.readyState || 'complete' === this.readyState) {
+                    if (success) {
+                        success();
+                    }
+                   
+                    this.onload = this.onreadystatechange = null;
+                    this.parentNode.removeChild(this);
+                }
+            }
+            document.getElementsByTagName('head')[0].appendChild(domScript);
+        }
+        loadJS("js/a.js");
+    </script>
+    <script lang="ja">
+        alert(66);
+    </script>
+</head>
+<body>
+   
+    <div class="ti">awefawfe</div>
+</body>
+<script lang="ja">
+   
+</script>
+</html>

@@ -1,0 +1,119 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="js/vue.min.js"></script>
+    <style>
+        .item {
+            border: 1px solid black;
+            padding: 10px;
+            margin-top: 5px;
+        }
+
+        .blue {
+            background-color: #a9cefb;
+            font-weight: bold;
+        }
+
+        #divEditor {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    
+    <div id="div1">
+        <button onclick="editorVM.newItem()">new item</button>
+        <template v-for="(item,index) in items">
+            <div class="item" v-bind:class="{blue:item.isEditing}" @click="editorVM.setEditingIndex(index)">
+                {{item.name}} - {{types[item.type]}}
+            </div>
+        </template>
+    </div>
+
+    <div id="divEditor" v-show="show">
+        <input type="text" v-model="item.name" />
+        <select v-model="item.type">
+            <option v-for="(op,index) in types" v-bind:value="index">{{op}}</option>
+        </select>
+        <button @click="save">save</button>
+        <button @click="cancel">cancel</button>
+    </div>
+
+    <script lang="ja">
+        function clone(obj) {
+            var json = JSON.stringify(obj);
+            eval("obj=" + json);
+            return obj;
+        }
+        var types = ["" , "汽车","飞机","电动车"];
+
+        var listVM = new Vue({
+            el: "#div1",
+            data: {
+                items: [
+                    { name: "宝马X5", type:1,  isEditing: false },
+                    { name: "波音747", type: 2,  isEditing: false },
+                ],
+            }
+        });
+
+        var editorVM = new Vue({
+            el: "#divEditor",
+            data: {
+                item: {},
+                editingIndex: -1,
+            },
+            computed: {
+                show: function () {
+                    //如果item不是空对象，返回true
+                    if (this.item.name !== undefined) {
+                        return true;
+                    }
+                    return false;
+                },
+            },
+            methods: {
+                save: function () {
+                    if (this.editingIndex >= 0) {
+                        //editingIndex >= 0表示是编辑某条数据
+                        this.updateList();
+                    }
+                    else {
+                        //添加数据
+                        listVM.items.splice(0,0,this.item);
+                        this.item = {};
+                    }
+                },
+                cancel: function () {
+                    this.setEditingIndex(-1);
+                },
+                updateList: function () {
+                    listVM.$set(listVM.items, this.editingIndex, this.item);
+                    this.setEditingIndex(-1);
+                },
+                newItem: function () {
+                    //如果正在编辑某条数据，这句话则表示退出编辑状态
+                    this.setEditingIndex(-1);
+                    //给item赋值，也表示了进入添加数据状态
+                    this.item = { name: "", type: 0, isEditing: false };
+                },
+                setEditingIndex: function (index) {
+                    if (this.editingIndex >= 0) {
+                        listVM.items[this.editingIndex].isEditing = false;
+                    }
+                    this.editingIndex = index;
+                    if (index < 0)
+                        this.item = {};
+                    else {
+                        this.item = clone(listVM.items[this.editingIndex]);
+                        listVM.items[this.editingIndex].isEditing = true;
+                    }
+                },
+            },
+        });
+
+    </script>
+</body>
+</html>
