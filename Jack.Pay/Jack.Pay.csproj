@@ -9,8 +9,8 @@
     <AssemblyVersion>2.0.6.1</AssemblyVersion>
     <FileVersion>2.0.6.1</FileVersion>
     <Authors>Jack</Authors>
-    <PackageLicenseUrl>http://www.cailutong168.com</PackageLicenseUrl>
-    <PackageProjectUrl>http://www.cailutong168.com</PackageProjectUrl>
+    <PackageLicenseUrl></PackageLicenseUrl>
+    <PackageProjectUrl></PackageProjectUrl>
     <PackageId>Jack.Pay.V2</PackageId>
   </PropertyGroup>
 
